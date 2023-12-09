@@ -125,7 +125,7 @@ class Form
 
 Terakhir, kalian perlu membuat file baru dengan nama form_input.php 
 
-![gambar](Gambar/4.png)
+![gambar](gambar/4.png)
 
 Dan untuk mendapatkan hasil seperti gambar diatas, kalian perlu memasukan kode berikut:
 
